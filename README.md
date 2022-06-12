@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
+I'm Gurban Alizada.
+
+![Profile Views](https://komarev.com/ghpvc/?username=GurbanAlizada)
+![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&show_icons=true)
+
 
 <!--
 **GurbanAlizada/GurbanAlizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm currently working on 🔭
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/gurbanalizada-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurbanalizada10/)
+[![Instagram Badge](https://img.shields.io/badge/gurbanalizada10-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/gurbanalizada10/)
