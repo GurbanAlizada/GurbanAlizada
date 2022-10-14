@@ -5,6 +5,8 @@ I'm Gurban Alizada.
 ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&show_icons=true)
 
 
+[![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)]
+
 <!--
 **GurbanAlizada/GurbanAlizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
