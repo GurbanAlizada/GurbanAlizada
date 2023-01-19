@@ -8,7 +8,7 @@ I'm Gurban Alizada.
 ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&theme=blue-green)]
 
 
-[![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)]
+![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)]
 
 
 <!--
