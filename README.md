@@ -8,7 +8,7 @@ I'm Gurban Alizada.
 ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&theme=blue-green)]
 
 
-![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)
+![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)
 
 
 <!--
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 You can find and get touch with me via Linkedin and Instagram!
 
 [![Linkedin Badge](https://img.shields.io/badge/gurbanalizada-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gurbanalizada)
-
 
 
 [![Instagram Badge](https://img.shields.io/badge/gurbanalizada10-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/gurbanalizada10/)
