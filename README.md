@@ -8,6 +8,10 @@ I'm Gurban Alizada.
 ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&theme=blue-green)]
 
 
+
+
+[![FolksDEV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folksdev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+
 ![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)]
 
 
