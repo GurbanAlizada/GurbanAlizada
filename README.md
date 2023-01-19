@@ -5,10 +5,11 @@ I'm Gurban Alizada.
 
 
 
-![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada&theme=blue-green)]
 
 
-[![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada&theme=blue-green)]
+
 
 <!--
 **GurbanAlizada/GurbanAlizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
