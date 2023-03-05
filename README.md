@@ -2,6 +2,7 @@
 I'm Gurban Alizada.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GurbanAlizada)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GurbanAlizada&label=Profile%20views&color=0e75b6&style=flat" alt="GurbanAlizada" /> </p>
 
 
 
