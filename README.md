@@ -10,6 +10,9 @@ I'm Gurban Alizada.
 
 ![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GurbanAlizada&theme=tokyonight" alt="GurbanAlizada" /></p>
+
+
 
 <!--
 **GurbanAlizada/GurbanAlizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +42,5 @@ You can find and get touch with me via Linkedin and Instagram!
 
 
 [![Instagram Badge](https://img.shields.io/badge/gurbanalizada10-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/gurbanalizada10/)
+
+
