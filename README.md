@@ -10,8 +10,9 @@ I'm Gurban Alizada.
 
 ![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GurbanAlizada" alt="GurbanAlizada" /></p>
-
+-->
 
 
 <!--
