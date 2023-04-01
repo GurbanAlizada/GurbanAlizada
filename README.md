@@ -5,7 +5,7 @@ I'm Gurban Alizada.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GurbanAlizada" alt="GurbanAlizada" /></a> </p>
 
 
-![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada) ![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)
+ ![Gurban's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbanAlizada)   ![Gurban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbanAlizada)
 
 
 
